@@ -7,12 +7,13 @@ body {
   height: 100%;
   width: 100%;
 }
-.two-nav {
+
+.top-nav {
   height: 100px;
   width: 100%;
 }
 
-.mini-nav {
+.bottom-nav {
   height: 34px;
   width: 100%;
   background-color: #0248ab;
@@ -44,7 +45,7 @@ body {
   }
 }
 
-.main-nav {
+.nav {
   height: 70px;
   width: 100%;
   background-color: white;
@@ -124,9 +125,9 @@ body {
 }  
 }
 
-/* main-section */
+/* ms */
 
-.main-section {
+.ms {
   height: 500px;
   width: 100%;
 
@@ -242,12 +243,12 @@ body {
 
 /* mid-section    */
 
-.best-sellers {
+.sellersss {
   text-align: center;
   margin: 50px 0;
 }
 
-.best-sellers h2 {
+.sellersss h2 {
   font-size: 2.5rem;
   font-weight: 600;
   margin-bottom: 30px;
